@@ -1,4 +1,4 @@
-# Implementación del Algoritmo de Dijkstra en Rust
+# Implementación del Algoritmo de Dijkstra en Rust.
 
 ## Descripción
 
